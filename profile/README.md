@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome to MUSA 550 👋
 
 This is the GitHub home for MUSA 550: Geospatial Data Science in Python, 
 taught at the University of Pennsylvania in fall 2023. Each week's lectures
